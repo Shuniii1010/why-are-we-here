@@ -1,5 +1,6 @@
 # why-are-we-here
 Assignment 1 — "Why are we here?" 
+
 As a student on the research pathway and a visual communication design student, I often ask myself why I need to learn programming when AI systems can already generate working code from a sentence. Since GPT-6 was released, this question has felt even more urgent. If I can describe what I want in English and receive a functioning program, why should I spend time learning programming myself?
 
 At first, I thought programming might be useful mainly because it could help me analyse research data. An AI assistant such as Codex can generate a complete data-analysis script in a few seconds. However, this does not mean that I can completely depend on it. I still need to understand whether the code answers my research question, whether the data has been processed correctly, and how to change the code when my requirements are not expressed precisely enough. Writing code and understanding code are not the same skill.
@@ -21,4 +22,5 @@ Therefore, I do not think learning programming is valuable because I must compet
 Perhaps the value of programming is not only in the quality of the final product. It is also in what happens during the process: the problems I encounter, the decisions I make and the things I learn while solving them. Even if AI continues to become more capable, I still want to understand enough to remain an active participant in my own work.
 
 References
+
 Beattie, D. (n.d.). The Art of Code. https://www.youtube.com/watch?v=6avJHaC3C2U
