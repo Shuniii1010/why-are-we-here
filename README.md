@@ -1,7 +1,7 @@
 # why-are-we-here
 Assignment 1 — "Why are we here?" 
 
-As a research pathway student and a visual communication design student, I often wonder why I need to learn programming when AI systems can already generate working code from a sentence. Since the release of GPT-6, this question has become even more urgent. If I can describe what I want and receive a functioning program, why should I spend time learning programming myself? I believe I am learning programming in order to understand and control the medium I am using. AI can be my collaborator, but it cannot completely replace my judgement.
+When AI can turn a short sentence into working code, learning to program can seem strangely unnecessary. The more important question, however, is not whether AI can produce code, but what role humans should play in the process. For me, the answer is that programming helps me understand and control the medium I am using. AI can be my collaborator, but it cannot completely replace my judgement.
 
 As a research student, I may need programming to analyse data. An AI assistant such as Codex can generate a data-analysis script quickly, but I still need to know whether the code answers my research question and processes the data correctly. If I do not understand the basic logic, I may not be able to recognise an error or explain why the result is wrong. AI can produce code, but I still need to read, judge and modify it.
 
