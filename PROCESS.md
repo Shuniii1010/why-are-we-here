@@ -58,5 +58,3 @@ After completing the essay and the GitHub work, I asked Codex to review our prev
 I did not copy the draft without changes. I manually removed some technical details from the main essay to avoid repeating the same information in both files. I also added more explanation about why I rejected certain AI suggestions, especially the suggestion to merge the conflicting repository histories and delete the unnecessary submodules.
 
 Finally, I used Codex again to improve the wording and make the structure of this document clearer. 
-
-This process made me realise that AI can help organise and express ideas, but it cannot automatically know which words genuinely represent my point of view. Deciding whether a plausible-sounding paragraph actually belongs to my argument is still my responsibility. This reflects the main idea of my essay: AI can assist with creative work, but people still need to understand, judge and control the process.
