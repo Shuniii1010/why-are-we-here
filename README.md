@@ -23,6 +23,5 @@ During the first workshop, I struggled to follow the process. After returning ho
 
 Therefore, learning programming allows me to understand and control the medium I use. It helps me judge AI-generated code, correct mistakes and take responsibility for my creative decisions. Whether I create a research tool, a small useless program or a piece of coding art, I want to remain actively involved in the process. Even if AI continues to become more capable, I still want to understand enough to create, question and make something that feels genuinely mine.
 
-References
-
+## References
 Beattie, D. (n.d.). The Art of Code. https://www.youtube.com/watch?v=6avJHaC3C2U
