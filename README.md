@@ -18,7 +18,7 @@ When I first learned Photoshop and Adobe Illustrator, I spent many hours doing s
 
 During the first workshop, I struggled to follow the process. After returning home, I repeated the steps until I understood them. The difficulty was tiring, but it also gave me the excitement of learning something new. Only through thinking and practising for myself can I continue learning and maintain my enthusiasm for creating.
 
- Dylan Beattie’s The Art of Code also inspired me. It makes me realize that programming not only as a technical process, but also as a form of expression. Code can generate images, music, patterns and unexpected behaviours. It can be playful and personal, giving me the opportunity to create with code and experience the same sense of achievement I felt before.
+ [Dylan Beattie’s The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U) also inspired me. It makes me realize that programming not only as a technical process, but also as a form of expression. Code can generate images, music, patterns and unexpected behaviours. It can be playful and personal, giving me the opportunity to create with code and experience the same sense of achievement I felt before.
 
 Therefore, learning programming allows me to understand and control the medium I use. It helps me judge AI-generated code, correct mistakes and take responsibility for my creative decisions. Whether I create a research tool, a small useless program or a piece of coding art, I want to remain actively involved in the process. Even if AI continues to become more capable, I still want to understand enough to create, question and make something that feels genuinely mine.
 
