@@ -49,12 +49,7 @@ I also rejected Codex’s initial opening for the essay:
 
 > As a research pathway student and a visual communication design student, I often wonder why I need to learn programming when AI systems can already generate working code from a sentence.
 
-I felt that this opening was too direct and slightly awkward. It sounded like a mechanical introduction of my identity and did not immediately reach the central question of the essay. I asked Codex to change it so that it began with the question of the human role in an AI-assisted process:
-
-> When AI can turn a short sentence into working code, learning to program can seem strangely unnecessary. The more important question, however, is not whether AI can produce code, but what role humans should play in the process.
-
-I kept this revised opening because it introduces my main argument more naturally. It shifts the focus away from whether AI can write code and towards what humans should understand, decide and control.
-
+I felt that this opening was too direct and slightly awkward. It sounded like a mechanical introduction of my identity and did not immediately reach the central question of the essay.
 
 ## How I Completed the Final Version
 
